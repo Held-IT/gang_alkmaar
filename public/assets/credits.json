@@ -1,0 +1,138 @@
+[
+  {
+    "name": "brick_facade",
+    "asset": "Bricks 073 A",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=Bricks073A",
+    "license": "CC0"
+  },
+  {
+    "name": "brick_facade_alt",
+    "asset": "Red Brick 03",
+    "source": "Poly Haven",
+    "author": "Rob Tuytel",
+    "url": "https://polyhaven.com/a/red_brick_03",
+    "license": "CC0"
+  },
+  {
+    "name": "plaster",
+    "asset": "Plaster 001",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=Plaster001",
+    "license": "CC0"
+  },
+  {
+    "name": "brick_quay",
+    "asset": "Bricks 097",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=Bricks097",
+    "license": "CC0"
+  },
+  {
+    "name": "klinkers",
+    "asset": "Paving Stones 118",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=PavingStones118",
+    "license": "CC0"
+  },
+  {
+    "name": "sidewalk_tiles",
+    "asset": "Paving Stones 038",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=PavingStones038",
+    "license": "CC0"
+  },
+  {
+    "name": "square_cobbles",
+    "asset": "Paving Stones 070",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=PavingStones070",
+    "license": "CC0"
+  },
+  {
+    "name": "asphalt",
+    "asset": "Asphalt 023 L",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=Asphalt023L",
+    "license": "CC0"
+  },
+  {
+    "name": "curb",
+    "asset": "Granite Tile",
+    "source": "Poly Haven",
+    "author": "Charlotte Baglioni",
+    "url": "https://polyhaven.com/a/granite_tile",
+    "license": "CC0"
+  },
+  {
+    "name": "roof_tiles",
+    "asset": "Roofing Tiles 014 A",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=RoofingTiles014A",
+    "license": "CC0"
+  },
+  {
+    "name": "roof_tiles_dark",
+    "asset": "Roofing Tiles 013 B",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=RoofingTiles013B",
+    "license": "CC0"
+  },
+  {
+    "name": "roof_flat",
+    "asset": "Tarred Gravel",
+    "source": "Poly Haven",
+    "author": "Dimitrios Savva",
+    "url": "https://polyhaven.com/a/tarred_gravel",
+    "license": "CC0"
+  },
+  {
+    "name": "grass",
+    "asset": "Grass 004",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=Grass004",
+    "license": "CC0"
+  },
+  {
+    "name": "stone",
+    "asset": "White Sandstone Blocks 02",
+    "source": "Poly Haven",
+    "author": "Rob Tuytel",
+    "url": "https://polyhaven.com/a/white_sandstone_blocks_02",
+    "license": "CC0"
+  },
+  {
+    "name": "wood",
+    "asset": "Weathered Plank Siding",
+    "source": "Poly Haven",
+    "author": "Dimitrios Savva",
+    "url": "https://polyhaven.com/a/weathered_plank_siding",
+    "license": "CC0"
+  },
+  {
+    "name": "mud",
+    "asset": "Brown Mud 02",
+    "source": "Poly Haven",
+    "author": "Rob Tuytel",
+    "url": "https://polyhaven.com/a/brown_mud_02",
+    "license": "CC0"
+  },
+  {
+    "name": "metal_painted",
+    "asset": "Painted Metal 004",
+    "source": "ambientCG",
+    "author": "ambientCG (Lennart Demes)",
+    "url": "https://ambientcg.com/view?id=PaintedMetal004",
+    "license": "CC0"
+  }
+]

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+data-raw/
+shots/
+*.log
+reference/
+.vite/

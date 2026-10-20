@@ -1,0 +1,87 @@
+{
+  "brick_facade": {
+    "metres": 1.25,
+    "size": 2048,
+    "source": "acg:Bricks073A"
+  },
+  "brick_facade_alt": {
+    "metres": 0.9,
+    "size": 1024,
+    "source": "ph:red_brick_03"
+  },
+  "plaster": {
+    "metres": 2,
+    "size": 1024,
+    "source": "acg:Plaster001"
+  },
+  "brick_quay": {
+    "metres": 1.1,
+    "size": 1024,
+    "source": "acg:Bricks097"
+  },
+  "klinkers": {
+    "metres": 1.75,
+    "size": 2048,
+    "source": "acg:PavingStones118"
+  },
+  "sidewalk_tiles": {
+    "metres": 2.4,
+    "size": 2048,
+    "source": "acg:PavingStones038"
+  },
+  "square_cobbles": {
+    "metres": 1.15,
+    "size": 1024,
+    "source": "acg:PavingStones070"
+  },
+  "asphalt": {
+    "metres": 2.5,
+    "size": 2048,
+    "source": "acg:Asphalt023L"
+  },
+  "curb": {
+    "metres": 2.3,
+    "size": 1024,
+    "source": "ph:granite_tile"
+  },
+  "roof_tiles": {
+    "metres": 2.9,
+    "size": 2048,
+    "source": "acg:RoofingTiles014A"
+  },
+  "roof_tiles_dark": {
+    "metres": 2.9,
+    "size": 1024,
+    "source": "acg:RoofingTiles013B"
+  },
+  "roof_flat": {
+    "metres": 2.2,
+    "size": 1024,
+    "source": "ph:tarred_gravel"
+  },
+  "grass": {
+    "metres": 1.4,
+    "size": 1024,
+    "source": "acg:Grass004"
+  },
+  "stone": {
+    "metres": 2,
+    "size": 1024,
+    "source": "ph:white_sandstone_blocks_02"
+  },
+  "wood": {
+    "metres": 1.57,
+    "size": 1024,
+    "source": "ph:weathered_plank_siding"
+  },
+  "mud": {
+    "metres": 1.3,
+    "size": 1024,
+    "source": "ph:brown_mud_02"
+  },
+  "metal_painted": {
+    "metres": 1,
+    "size": 1024,
+    "source": "acg:PaintedMetal004"
+  }
+}

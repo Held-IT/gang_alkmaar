@@ -1,0 +1,11 @@
+{
+  "//": "Type-checks only the engine module's files (used while other modules are mid-edit).",
+  "extends": "../../tsconfig.json",
+  "include": [
+    "../../src/core/*.ts",
+    "../../src/scenes/dev-render.ts",
+    "../../src/contracts.ts",
+    "../../src/config.ts",
+    "../../src/dev/devCamera.ts"
+  ]
+}

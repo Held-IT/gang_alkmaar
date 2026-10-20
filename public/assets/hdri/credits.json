@@ -1,0 +1,18 @@
+[
+ {
+  "asset": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+  "id": "kloofendal_48d_partly_cloudy_puresky",
+  "source": "Poly Haven",
+  "url": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+  "authors": [
+   "Greg Zaal",
+   "Jarod Guest"
+  ],
+  "license": "CC0 1.0",
+  "files": [
+   "sky_1k.hdr",
+   "sky_2k.hdr",
+   "sky_4k_top.hdr (cropped)"
+  ]
+ }
+]
